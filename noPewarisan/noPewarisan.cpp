@@ -14,3 +14,10 @@ public:
 	//	cout << "Halo saya Function dari drived class";
 	//	}
 };
+
+int main() {
+	derivedClass a;
+	a.perkenalan();
+
+	return 0;
+}
