@@ -42,7 +42,7 @@ public:
 };
 
 int main() {
-	budi aa(12);
+	budi a(12);
 
 	return 0;
 }
